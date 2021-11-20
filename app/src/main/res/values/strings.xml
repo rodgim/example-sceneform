@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Example Sceneform</string>
+    <string name="plane_finding">Searching for surfaces</string>
+</resources>
