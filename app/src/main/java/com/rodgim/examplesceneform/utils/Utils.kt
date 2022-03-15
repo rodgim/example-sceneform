@@ -21,7 +21,9 @@ import com.google.ar.core.ArCoreApk.InstallStatus
 import com.google.ar.core.Config
 import com.google.ar.core.Session
 import com.google.ar.core.exceptions.*
+import com.rodgim.examplesceneform.MIN_OPENGL_VERSION
 import com.rodgim.examplesceneform.R
+import com.rodgim.examplesceneform.TAG
 
 
 object Utils {
